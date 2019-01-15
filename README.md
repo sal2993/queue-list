@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# QUEUE-LIST
+Youtube.com doesnt really have a 'queue' list setting for having a list of videos play as a queue and once played they get removed from the list. This is a repo to try and add that feature.
+
+More will be posted soon..
